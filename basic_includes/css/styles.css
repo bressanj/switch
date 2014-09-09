@@ -173,6 +173,10 @@ ul li i {
    .thumbnail .price sup {
       font-size: 10px;
    }
+
+   .footerblock {
+      padding-bottom: 10px
+   }
 }
 
 /* Landscape phone to portrait tablet */
@@ -180,18 +184,21 @@ ul li i {
 
    #myCarousel .item { height: 310px;}
 
-#slide1 {
-   background: url('../../images/carousel_small_01.jpg') top center no-repeat;
-}
+   #slide1 {
+      background: url('../../images/carousel_small_01.jpg') top center no-repeat;
+   }
 
-#slide2 {
-   background: url('../../images/carousel_small_02.jpg') top center no-repeat;
-}
+   #slide2 {
+      background: url('../../images/carousel_small_02.jpg') top center no-repeat;
+   }
 
-#slide3 {
-   background: url('../../images/carousel_small_03.jpg') top center no-repeat;
-}
-	
+   #slide3 {
+      background: url('../../images/carousel_small_03.jpg') top center no-repeat;
+   }
+
+	.footerblock {
+      padding-bottom: 10px
+   }
 }
 
 /* Large desktop */
