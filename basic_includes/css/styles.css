@@ -74,7 +74,7 @@ ul li i {
 }
 
 .navbar-brand {
-   padding: 10px 5px 5px 15px;
+   padding: 10px 15px 5px 15px;
 }
 
 .navbar-brand img {
@@ -173,7 +173,13 @@ ul li i {
 
 .logo-footer {
    width: 170px;
-   padding-bottom: 20px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+}
+
+.footerblock h5 {
+   padding-bottom: 12px;
+   border-bottom: 1px solid #a0a0a0;
 }
 
 
