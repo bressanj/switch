@@ -1,15 +1,3 @@
-/*
-
-My Custom CSS
-=============
-
-Author:  Brad Hussey
-Updated: August 2013
-Notes:	 Hand coded for Udemy.com
-
-*/
-
-
 /* --------------------------------------
    Layout
    -------------------------------------- */
@@ -30,13 +18,6 @@ Notes:	 Hand coded for Udemy.com
    margin-bottom: 15px;
 }
 
-footer {
-   background: #333;
-   color: #eee;
-   font-size: 11px;
-   padding: 20px;
-}
-
 
 /* --------------------------------------
    Typography
@@ -46,6 +27,41 @@ body {
    -webkit-font-smoothing: antialiased;
    text-rendering: optimizelegebility;
 }
+
+blockquote {
+font-family: Georgia, serif;
+font-size: 16px;
+font-style: italic;
+margin: 0.25em 0;
+padding: 0.25em 40px;
+line-height: 1.45;
+position: relative;
+color: #383838;
+border: 0px;
+}
+
+blockquote:before {
+display: block;
+content: "\201C";
+font-size: 80px;
+position: absolute;
+left: 0px;
+top: -40px;
+color: #7a7a7a;
+}
+
+blockquote cite {
+font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+color: #999999;
+font-size: 12px;
+display: block;
+margin-top: 5px;
+text-align: right;
+}
+ 
+/*blockquote cite:before {
+content: "\2014 \2009";
+}*/
 
 .well .page-header {
    margin-top: 0;
@@ -68,11 +84,6 @@ ul li i {
 /* --------------------------------------
    Navbar
    -------------------------------------- */
-   
-#searchInput {
-   width: 200px
-}
-
 .navbar-brand {
    padding: 10px 15px 5px 15px;
 }
@@ -85,9 +96,17 @@ ul li i {
 /* --------------------------------------
    Carousel
    -------------------------------------- */
+.carousel-control {
+   opacity: .0;
+}
 
 #myCarousel {
    margin-top: 60px
+}
+
+.carousel-caption {
+   color: #333;
+   text-shadow: none;
 }
 
 .carousel-caption h4 {
@@ -103,15 +122,15 @@ ul li i {
 }
 
 #slide1 {
-   background: url('../../images/carousel_medium_01.jpg') top center no-repeat;
+   background: url('../../images/slide-1-md.png') top center no-repeat;
 }
 
 #slide2 {
-   background: url('../../images/carousel_medium_02.jpg') top center no-repeat;
+   background: url('../../images/slide-2-md.png') top center no-repeat;
 }
 
 #slide3 {
-   background: url('../../images/carousel_medium_03.jpg') top center no-repeat;
+   background: url('../../images/slide-3-md.png') top center no-repeat;
 }
 
 /* --------------------------------------
@@ -145,19 +164,6 @@ ul li i {
    line-height:  20px;
 }
 
-.thumbnail .price {
-   font-size: 22px;
-   position: absolute;
-   top: -10px;
-   right: -10px;
-   padding: 10px;
-}
-
-.thumbnail .price sup {
-   font-weight: normal;
-   font-size: 12px;
-}
-
 #aboveFooter1 {
    margin: 15px 0;
 }
@@ -170,6 +176,13 @@ ul li i {
 /* --------------------------------------
    Footer
    -------------------------------------- */
+
+footer {
+   background: #333;
+   color: #eee;
+   font-size: 11px;
+   padding: 20px;
+}
 
 .logo-footer {
    width: 170px;
@@ -189,14 +202,6 @@ ul li i {
 
 /* Portrait & landscape phone */
 @media (max-width: 480px) {
-	
-   .thumbnail .price {
-      font-size: 14px;
-   }
-
-   .thumbnail .price sup {
-      font-size: 10px;
-   }
 
    .footerblock {
       padding-bottom: 10px
@@ -206,20 +211,6 @@ ul li i {
 /* Landscape phone to portrait tablet */
 @media (max-width: 768px) {
 
-   #myCarousel .item { height: 310px;}
-
-   #slide1 {
-      background: url('../../images/carousel_small_01.jpg') top center no-repeat;
-   }
-
-   #slide2 {
-      background: url('../../images/carousel_small_02.jpg') top center no-repeat;
-   }
-
-   #slide3 {
-      background: url('../../images/carousel_small_03.jpg') top center no-repeat;
-   }
-
 	.footerblock {
       padding-bottom: 10px
    }
@@ -228,19 +219,6 @@ ul li i {
 
 /* Large desktop */
 @media (min-width: 1200px) {
-	
-   #myCarousel .item { height: 500px;}
 
-   #slide1 {
-      background: url('../../images/carousel_large_01.jpg') top center no-repeat;
-   }
-
-   #slide2 {
-      background: url('../../images/carousel_large_02.jpg') top center no-repeat;
-   }
-
-   #slide3 {
-      background: url('../../images/carousel_large_03.jpg') top center no-repeat;
-   }
 
 }
