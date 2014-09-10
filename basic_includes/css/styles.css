@@ -2,10 +2,6 @@
    Layout
    -------------------------------------- */
 
-#main {
-   padding-top: 50px;
-}
-
 #features {
    text-align: center;
 }
@@ -96,16 +92,12 @@ ul li i {
 /* --------------------------------------
    Carousel
    -------------------------------------- */
-.carousel-control {
-   opacity: .0;
-}
 
 #myCarousel {
    margin-top: 60px
 }
 
 .carousel-caption {
-   color: #333;
    text-shadow: none;
 }
 
@@ -115,6 +107,10 @@ ul li i {
 
 .carousel-caption p {
    font-size: 16px;
+}
+
+.carousel-caption blockquote {
+   color: white;
 }
 
 #myCarousel .item { 
