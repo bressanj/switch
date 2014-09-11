@@ -275,7 +275,25 @@ footer {
    body {
       font-size: 14px;
    }
-   
+
+   #myCarousel .item { height: 400px;}
+
+   #slide1 {
+      background: url('../../images/slide-1-sm.png') top center no-repeat;
+   }
+
+   #slide2 {
+      background: url('../../images/slide-2-sm.png') top center no-repeat;
+   }
+
+   #slide3 {
+      background: url('../../images/slide-3-sm.png') top center no-repeat;
+   }
+
+   #slide4 {
+      background: url('../../images/slide-4-sm.png') top center no-repeat;
+   }
+
    .footerblock {
       padding-bottom: 10px
    }
@@ -293,7 +311,7 @@ footer {
 /* Large desktop */
 @media (min-width: 1200px) {
 
-      #myCarousel .item { height: 500px;}
+   #myCarousel .item { height: 500px;}
 
    #slide1 {
       background: url('../../images/slide-1-lg.png') top center no-repeat;

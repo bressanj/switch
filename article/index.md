@@ -2,9 +2,13 @@
 layout: article
 ---
 
+---
 #SWITCH
 Swiss Trial of Initial Decompressive Craniectomy versus Best Medical Treatment of Spontaneous Supratentorial Intracerebral Hemorrhage:
 A Randomized Controlled Trial
+
+<span class="fa fa-file-pdf-o"></span>
+[Download Leaflet]({{ site.baseurl }}/docs/SWITCH_leaflet.pdf)
 
 ---
 
@@ -121,4 +125,8 @@ is warranted.&quot;
 >&quot;The present proposed project may serve as a role model for collaborative reserach in this field in Switzerland. It will help to extend the collaboration among the leading experts.&quot;
 
 &mdash;<cite>Reviewer</cite>  
+
+---
+<span class="fa fa-file-pdf-o"></span>
+[Download Leaflet]({{ site.baseurl }}/docs/SWITCH_leaflet.pdf)
 
