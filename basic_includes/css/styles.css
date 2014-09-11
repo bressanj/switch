@@ -29,6 +29,19 @@
 body {
    -webkit-font-smoothing: antialiased;
    text-rendering: optimizelegebility;
+   font-size: 16px;
+   line-height: 1.5;
+   font-weight: 400;
+   color: #111;
+   background-color: #fdfdfd;
+}
+
+h1, h2, h3, h4, h5, h6 {
+font-weight: 400;
+}
+
+h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight {
+margin-bottom: 15px;
 }
 
 article {
@@ -40,10 +53,13 @@ article {
 
 article img {
    margin-top:15px;
+   max-width: 100%;
+   vertical-align: middle;
 }
 
 blockquote {
    margin: 40px 0px 0px 0px;
+   font-weight: 300;
 }
 
 .carousel-caption blockquote {
