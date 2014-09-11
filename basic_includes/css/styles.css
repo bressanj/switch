@@ -31,13 +31,13 @@ body {
    text-rendering: optimizelegebility;
    font-size: 16px;
    line-height: 1.5;
-   font-weight: 400;
+   font-weight: 300;
    color: #111;
    background-color: #fdfdfd;
 }
 
 h1, h2, h3, h4, h5, h6 {
-font-weight: 400;
+font-weight: 300;
 }
 
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight {
@@ -60,6 +60,7 @@ article img {
 blockquote {
    margin: 40px 0px 0px 0px;
    font-weight: 300;
+   font-family: georgia, serif;
 }
 
 .carousel-caption blockquote {
