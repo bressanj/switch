@@ -272,6 +272,10 @@ footer {
 /* Portrait & landscape phone */
 @media (max-width: 480px) {
 
+   body {
+      font-size: 14px;
+   }
+   
    .footerblock {
       padding-bottom: 10px
    }
