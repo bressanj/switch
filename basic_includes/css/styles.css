@@ -2,6 +2,10 @@
    Layout
    -------------------------------------- */
 
+#main{
+   max-width: none
+}
+
 #features {
    text-align: center;
 }
@@ -124,6 +128,10 @@ ul li i {
 /* --------------------------------------
    Carousel
    -------------------------------------- */
+#myCarousel {
+   margin-top: 50px;
+   background-color: #32425c;
+}
 
 .carousel-control.right {
    background-image: none;
@@ -142,10 +150,6 @@ ul li i {
 .carousel-indicators li.active {
    background-color:#707c8e;
    color:#707c8e;
-}
-
-#myCarousel {
-   margin-top: 60px
 }
 
 .carousel-caption {
