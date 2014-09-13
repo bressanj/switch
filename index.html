@@ -3,12 +3,14 @@ layout: default
 ---
 {% include carousel.html %}
 
-<div class="container.fluid" id="switch_lead">
+<!-- Learn More Button -->
+<div class="container.fluid" id="learn_more">
 	<div class="container">
 	<a href="{{ site.baseurl }}/article" class="btn btn-primary" id="alertMe"><span class="glyphicon glyphicon-hand-up"></span> Learn more...</a>
     </div>
 </div>
 
+<!-- Inclusion Criteria Feature Boxes -->
 <div class="container.fluid">
 	<div class="container" id="criteria">
 		<div class="row">
@@ -22,7 +24,7 @@ layout: default
 						<li>Age: &ge;18 to &le;75 years</li>
 						<li>Acute stroke syndrome due to a spontaneous ICH</li>
 						<li>Haemorrhage into basal ganglia, or thalamus that may extend
-into cerebral lobes, ventricles or subarachnoid space</li>
+							into cerebral lobes, ventricles or subarachnoid space</li>
 						<li>Glasgow coma scale (GCS) <15 and >5 at randomization</li>
 						<li>NIHSS &ge;10 and &le;30</li>
 						<li>Surgical treatment within 72 hours after ictus</li>
@@ -45,11 +47,11 @@ into cerebral lobes, ventricles or subarachnoid space</li>
 				</ul>
 				</div><!-- end panel -->
 			</div><!-- end feature -->
-		</div>
-	</div>
-</div>
+		</div><!-- end row -->
+	</div><!-- end container -->
+</div><!-- end container.fluid -->
+
+
 
 <a href="#myModal" role="button" class="btn btn-warning" data-toggle="modal"><span class="glyphicon glyphicon-hand-up"></span> Contact us</a>
-<a href="{{ site.baseurl }}/docs/SWITCH_leaflet.pdf" class="btn btn-large btn-warning" id="alertMe">get pdf</a>
 
-{% include contact_modal.html %}
