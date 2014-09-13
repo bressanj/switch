@@ -2,6 +2,11 @@
    Layout
    -------------------------------------- */
 
+#news {
+   margin-top: 50px;
+   max-width: 728px;
+}
+
 #features {
    text-align: center;
 }
@@ -18,6 +23,48 @@
    min-height: 110px;
 }
 
+.page-content {
+   padding: 50px 0;
+}
+
+.wrapper {
+max-width: calc(800px - (30px * 2));
+max-width: calc(800px - (30px * 2));
+margin-right: auto;
+margin-left: auto;
+padding-right: 30px;
+padding-left: 30px;
+}
+
+.post {
+   display: block;
+   margin: 80px auto 5px auto;
+   max-width: 728px;
+}
+
+.post-list {
+margin-left: 0;
+padding-left: 0;
+list-style: none;
+}
+
+.post-list > li {
+   margin-bottom: 30px;
+}
+
+.post-list h2 {
+   margin-top: 0;
+}
+
+.post-meta {
+font-size: 14px;
+color: #828282;
+}
+
+article.post-content {
+   padding-left: 0;
+}
+
 /* --------------------------------------
    Typography
    -------------------------------------- */
@@ -30,6 +77,10 @@ body {
    font-weight: 300;
    color: #111;
    background-color: #fdfdfd;
+}
+
+a {
+color: #2577ba;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -211,12 +262,19 @@ ul li i {
    text-align: center;
 }
 
+#contact_us {
+   padding: 40px 0 40px 0;
+   background-color: #ebeff2;
+   text-align: center;
+}
+
 #criteria {
    padding:20px 0 20px 0;
 }
 
 .panel-heading {
    text-align: center;
+   background-color: #ebeff2;
 }
 
 

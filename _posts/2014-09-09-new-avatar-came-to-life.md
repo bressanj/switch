@@ -1,0 +1,12 @@
+---
+layout: post
+title: Awesome Avatar!
+date: 2014-09-08
+excerpt: The new Avatar is here.
+---
+
+# Check out this guy
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, recusandae minima facere soluta ipsum tenetur inventore obcaecati totam id ut nesciunt magnam fugit, illum, nisi explicabo minus blanditiis accusantium mollitia?
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus temporibus, iste id rerum. Repudiandae dolorum perspiciatis et impedit atque sunt, eos veritatis nulla aut laudantium modi, neque perferendis dicta saepe quam eaque quod. Quia nam perspiciatis aliquid corporis dolore, error doloribus cum veritatis fugiat, praesentium, a at aperiam, rem nostrum consectetur consequuntur? Repudiandae asperiores nam qui modi. Praesentium dignissimos error molestiae tempora modi quaerat a, quidem, facilis, ab doloribus animi culpa, voluptates numquam beatae rerum quod sapiente laudantium nulla quam! Ad totam natus reprehenderit dolorum, asperiores minus! Illo officiis placeat voluptatibus. Natus ut maxime asperiores. Nihil error aliquam sapiente recusandae nostrum beatae iste vitae veniam facilis doloremque, ut, dolorem quasi. Dolore maxime cum, nemo, animi itaque repellendus in culpa et veniam illo beatae fugit quas assumenda accusantium a repudiandae distinctio fugiat at. Dicta et ad harum, minima saepe unde id inventore eos odit, quaerat.
