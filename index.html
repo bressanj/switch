@@ -10,6 +10,28 @@ layout: default
     </div>
 </div>
 
+<!-- News Excerpt-->
+<div class="container.fluid" id="news_excerpt">
+	<div class="container" id="news_excerpt_inner">
+
+		  <ul class="post-list">
+		    {% for post in site.posts limit:3 %}
+		      <li>
+		        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+		        <h2>
+		          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+		        </h2>
+		        {{ post.excerpt}}
+		      </li>
+		    {% endfor %}
+		  </ul>
+
+		<a href="{{ site.baseurl }}/news" class="btn btn-primary" id="alertMe">Show all news...</a>
+
+    </div><!-- end container -->
+</div><!-- end container-fluid -->
+
 <!-- Inclusion Criteria Feature Boxes -->
 <div class="container.fluid">
 	<div class="container" id="criteria">
@@ -54,6 +76,8 @@ layout: default
 <!-- Contact us Button -->
 <div class="container.fluid" id="contact_us">
 	<div class="container">
+		<p class="lead">Is your institution interested in participating or supporting us?</p>
+		<p><span class="fa fa-caret-down" style="color: #293449; font-size:40px"></span></p>
 		<a href="#myModal" role="button" class="btn btn-warning" data-toggle="modal">Contact us</a>
     </div>
 </div>
