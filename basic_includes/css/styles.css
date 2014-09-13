@@ -198,6 +198,30 @@ ul li i {
    background: url('../../images/slide-4-md.png') top center no-repeat;
 }
 
+
+/* --------------------------------------
+   Home Page
+   -------------------------------------- */
+
+
+#switch_lead {
+   padding: 40px 0 40px 0;
+   background-color: #293449;
+   color:#fff;
+   text-align: center;
+}
+
+#criteria {
+   padding:20px 0 20px 0;
+}
+
+.panel-heading {
+   text-align: center;
+}
+
+
+
+
 /* --------------------------------------
    Global Styles
    -------------------------------------- */

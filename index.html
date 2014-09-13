@@ -3,21 +3,53 @@ layout: default
 ---
 {% include carousel.html %}
 
-<div class="container">
-	<div class="row" id="bigCallout">
-		<div class="col-12">
-			<div class="well">
-				<p class="lead">Swiss Trial of Initial Decompressive Craniectomy versus Best Medical Treatment of Spontaneous Supratentorial Intracerebral Hemorrhage: A Randomized Controlled Trial</p>
+<div class="container.fluid" id="switch_lead">
+	<div class="container">
+	<a href="{{ site.baseurl }}/article" class="btn btn-primary" id="alertMe"><span class="glyphicon glyphicon-hand-up"></span> Learn more...</a>
+    </div>
+</div>
 
-				<a href="{{ site.baseurl }}/article" class="btn btn-large btn-primary" id="alertMe">Learn more...</a>
-
-				<a href="{{ site.baseurl }}/docs/SWITCH_leaflet.pdf" class="btn btn-large btn-warning" id="alertMe">get pdf</a>
-			</div><!-- end well -->
-
-		</div><!-- end col-12 -->
-	</div><!-- end bigCallout -->
+<div class="container.fluid">
+	<div class="container" id="criteria">
+		<div class="row">
+			<div class="col-sm-6 feature">
+				<div class="panel">
+					<div class="panel-heading">
+						<h3 class="panel-title"><span class="fa fa-check" style="color: #5cb85c; font-size:40px"></span></h3>
+					</div><!-- end panel-heading -->
+					<h3>Key Inclusion Criteria:</h3>
+					<ul>
+						<li>Age: &ge;18 to &le;75 years</li>
+						<li>Acute stroke syndrome due to a spontaneous ICH</li>
+						<li>Haemorrhage into basal ganglia, or thalamus that may extend
+into cerebral lobes, ventricles or subarachnoid space</li>
+						<li>Glasgow coma scale (GCS) <15 and >5 at randomization</li>
+						<li>NIHSS &ge;10 and &le;30</li>
+						<li>Surgical treatment within 72 hours after ictus</li>
+						<li>Volume of hematoma &ge;30ml and &le;100ml</li>
+					</ul>
+				</div><!-- end panel -->
+			</div><!-- end feature -->
+	
+			<div class="col-sm-6 feature">
+				<div class="panel">
+					<div class="panel-heading">
+						<h3 class="panel-title"><span class="fa fa-ban" style="color: #d9534f; font-size:40px"></span></h3>
+					</div><!-- end panel-heading -->
+					<h3>Key Exclusion Criteria:</h3>
+				<ul>
+					<li>Aneurysm, arteriovenous malformation, tumor, trauma, thrombolysis</li>
+					<li>Cerebellar or brainstem hemorrhage</li>
+					<li>Exclusive lobar hemorrhage</li>
+					<li>Moribund patients (GCS 3-5)</li>
+				</ul>
+				</div><!-- end panel -->
+			</div><!-- end feature -->
+		</div>
+	</div>
 </div>
 
 <a href="#myModal" role="button" class="btn btn-warning" data-toggle="modal"><span class="glyphicon glyphicon-hand-up"></span> Contact us</a>
+<a href="{{ site.baseurl }}/docs/SWITCH_leaflet.pdf" class="btn btn-large btn-warning" id="alertMe">get pdf</a>
 
 {% include contact_modal.html %}
