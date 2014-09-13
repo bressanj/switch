@@ -2,7 +2,6 @@
 layout: article
 ---
 
----
 #SWITCH
 Swiss Trial of Initial Decompressive Craniectomy versus Best Medical Treatment of Spontaneous Supratentorial Intracerebral Hemorrhage:
 A Randomized Controlled Trial
