@@ -7,11 +7,6 @@ prose:
   siteurl: "http://imurek.github.io/switch/"
   relativeLinks: "http://imurek.github.io/switch/docs/links.jsonp"
   media: "post_media"
-  ignore:
-    - index.html
-    - _config.yml
-    - /_layouts
-    - /_includes
   metadata: 
     _posts:
 	  - name: "layout"
