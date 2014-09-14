@@ -14,3 +14,8 @@ published: false
 1. eins	
 2. zwei
 3. drü
+
+|name|age|occupation|salary|
+|----|--:|----------|-----:|
+|Ben |21 |plumber   |333   |
+|Yama|33 |designer  |666   |
