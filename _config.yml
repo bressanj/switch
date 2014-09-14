@@ -1,12 +1,9 @@
 markdown: redcarpet
 baseurl: /switch
 exclude: ['README.md']
-
-
-
 prose:
 	rooturl: '_posts'
-	siteurl: 'http://imurek.github.io/switch'
+	siteurl: 'http://imurek.github.io/switch/'
 	media: 'post_media'
 	relativeLinks: 'docs/links.jsonp'
 	ignore:
@@ -21,4 +18,3 @@ prose:
 			field: 
 				element: 'hidden'
 				value: 'post'
-				
