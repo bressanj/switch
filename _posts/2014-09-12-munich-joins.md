@@ -1,10 +1,12 @@
 ---
 layout: post
 title: University of Munich joins SWITCH.
-date: 2014-07-12
-excerpt: Temporibus eligendi, possimus nemo id animi quia ullam itaque nesciunt cum dolorem corporis blanditiis! 
+date: {}
+excerpt: "Temporibus eligendi, possimus nemo id animi quia ullam itaque nesciunt cum dolorem corporis blanditiis!"
+published: true
 ---
 
+![tum.png](/post_media/tum.png)
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam dolores fugiat tempore minima iusto quo at asperiores itaque culpa minus excepturi accusamus deleniti nemo veniam beatae odit officia nulla id, laboriosam, expedita, incidunt autem tenetur animi saepe molestias? Est consectetur, omnis. Cum itaque omnis consectetur maxime blanditiis repellat! Ducimus, fugit! 
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero quaerat ipsa facere iste, quis distinctio autem, praesentium eum soluta, consectetur fugit sunt! Possimus, vero cumque perferendis autem repellat ipsam assumenda laudantium soluta! Vitae consequuntur at animi soluta possimus quia minima minus corrupti quasi reprehenderit, laboriosam, obcaecati, ad inventore repellendus eveniet nobis cum! 
