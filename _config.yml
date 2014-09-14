@@ -21,7 +21,7 @@ prose:
           placeholder: "YYYY-MM-DD"
       - name: "title"
         field:
-          element: "texta"
+          element: "text"
           label: "Title"
           value: ""
       - name: "excerpt"
