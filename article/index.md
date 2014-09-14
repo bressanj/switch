@@ -1,9 +1,7 @@
 ---
 layout: post
-title: SWITCH
 ---
-Swiss Trial of Initial Decompressive Craniectomy versus Best Medical Treatment of Spontaneous Supratentorial Intracerebral Hemorrhage:
-A Randomized Controlled Trial
+##Swiss Trial of Initial Decompressive Craniectomy versus Best Medical Treatment of Spontaneous Supratentorial Intracerebral Hemorrhage: A Randomized Controlled Trial
 
 <span class="fa fa-file-pdf-o"></span>
 [Download Leaflet]({{ site.baseurl }}/docs/SWITCH_leaflet.pdf)
