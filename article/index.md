@@ -90,8 +90,7 @@ The idea of using decompressive craniectomy for treatment for ICH is increasing 
 
 >&quot;I really would like to see one more trial &mdash; the trial of decompressive craniectomy for intracerebral hemorrhage&quot;
 
-&mdash;<cite>Prof. Dr. W. Hacke, meeting of the German Society for Neurology   
-and Neurosurgery in Mannheim 2010.</cite>
+&mdash;<cite>Prof. Dr. W. Hacke, meeting of the German Society for Neurology and Neurosurgery in Mannheim 2010.</cite>
 
 >&quot;These findings suggest that a randomized controlled trial of decom- pressive craniectomy after ICH is warranted.&quot;
 

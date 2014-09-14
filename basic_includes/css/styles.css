@@ -384,6 +384,27 @@ footer {
    body {
       font-size: 14px;
    }
+   
+   blockquote p {
+      font-size: 14px;
+   }
+
+   article p cite {
+      font-size: 11px;
+   }
+
+   h2 a.post-link{
+      font-size: 24px;
+   }
+
+   .navbar-nav>li {
+      border-bottom: 1px solid #707c8e;
+   }
+
+   .navbar-nav>li a {
+      color: #fff; 
+      text-align: center;
+    }
 
    #myCarousel .item { height: 400px;}
 
