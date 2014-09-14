@@ -3,7 +3,7 @@ baseurl: /switch
 exclude: ["README.md"]
 permalink: pretty
 prose:
-  rooturl: '_posts'
+  # rooturl: '_posts'
   siteurl: 'http://imurek.github.io/switch/'
   media: 'post_media'
   metadata:
