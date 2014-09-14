@@ -21,11 +21,12 @@ prose:
           placeholder: "YYYY-MM-DD"
       - name: "title"
         field:
-          element: "textarea"
-          label: "Excerpt"
+          element: "texta"
+          label: "Title"
           value: ""
       - name: "excerpt"
         field:
-          element: "text"
-          label: "Title"
+          element: "textarea"
+          label: "Excerpt"
           value: ""
+          placeholder: "Short summary of the article..."
