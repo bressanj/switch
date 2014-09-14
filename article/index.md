@@ -1,7 +1,9 @@
 ---
 layout: post
 title: SWITCH
+published: true
 ---
+
 Swiss Trial of Initial Decompressive Craniectomy versus Best Medical Treatment of Spontaneous Supratentorial Intracerebral Hemorrhage: A Randomized Controlled Trial
 
 <span class="fa fa-file-pdf-o"></span>
@@ -45,7 +47,7 @@ The study will be conducted in major Swiss stroke centers (Bern, Aarau, Geneva, 
 - Acute stroke syndrome due to a spontaneous ICH
 - Haemorrhage into basal ganglia, or thalamus that may extend
 into cerebral lobes, ventricles or subarachnoid space
-- Glasgow coma scale (GCS) <15 and >5 at randomization 
+- Glasgow coma scale (GCS) <14 and >7 at randomization 
 - NIHSS &ge;10 and &le;30
 - Surgical treatment within 72 hours after ictus
 - Volume of hematoma &ge;30ml and &le;100ml
@@ -54,7 +56,7 @@ into cerebral lobes, ventricles or subarachnoid space
 - Aneurysm, arteriovenous malformation, tumor, trauma, thrombolysis
 - Cerebellar or brainstem hemorrhage
 - Exclusive lobar hemorrhage
-- Moribund patients (GCS 3-5)
+- Moribund patients (GCS 3-7)
 
 ###Treatment Groups
 SWITCH will compare early decompressive craniectomy (DC) plus best medical treatment versus best medical treatment alone.
@@ -125,4 +127,3 @@ is warranted.&quot;
 ---
 <span class="fa fa-file-pdf-o"></span>
 [Download Leaflet]({{ site.baseurl }}/docs/SWITCH_leaflet.pdf)
-
