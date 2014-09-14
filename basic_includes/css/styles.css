@@ -39,7 +39,7 @@ padding-left: 30px;
 
 .post {
    display: block;
-   margin: 80px auto 5px auto;
+   margin: 100px auto 5px auto;
    padding: 0 5px;
    max-width: 728px;
 }
@@ -90,20 +90,16 @@ h1, h2, h3, h4, h5, h6 {
 font-weight: 300;
 }
 
-h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight {
-margin-bottom: 15px;
-}
-
 article {
-   padding: 70px 5px 5px 10px;
+   padding: 20px 5px 5px 10px;
    max-width: 720px;
    margin-right: auto;
    margin-left: auto;
 }
 
 article img {
-   margin-top:15px;
-   max-width: 100%;
+   margin: 30px 0 10px 0;
+   max-width: 50%;
    vertical-align: middle;
 }
 
@@ -111,6 +107,10 @@ blockquote {
    margin: 40px 0px 0px 0px;
    font-weight: 300;
    font-family: "Courier New", Courier, monospace;
+}
+
+cite {
+   font-size: 14px;
 }
 
 .carousel-caption blockquote {
@@ -397,13 +397,19 @@ footer {
       font-size: 24px;
    }
 
+   .navbar-nav {
+      margin-bottom: 0;
+   }
+
    .navbar-nav>li {
-      border-bottom: 1px solid #707c8e;
+      border-top: 1px solid #707c8e;
    }
 
    .navbar-nav>li a {
       color: #fff; 
       text-align: center;
+      font-size: 20px;
+      font-weight: 400;
     }
 
    #myCarousel .item { height: 400px;}

@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "Swiss Heart Foundation support granted"
+title:  "Swiss Heart Foundation Support Granted"
 date:   2014-04-01
 categories: jekyll update
 excerpt: Te has nisl nostro pericula, ei nam omnis signiferumque conclusionemque, per debet invenire cu. Nec nostro electram deseruisse id.
 ---
+
+![Swiss Heart Logo]({{ site.baseurl }}/images/swissheart_logo.png)
 
 Lorem ipsum dolor sit amet, no mutat mucius ponderum sit. Id vix animal accusam tincidunt, amet affert mei ad. Adipisci dissentiet ad nam. In eum minim tibique atomorum. Nec nostro electram deseruisse id. Feugait offendit nec ex, mei ne atqui integre, cum regione pericula hendrerit et.
 
