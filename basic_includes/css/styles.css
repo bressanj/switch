@@ -110,7 +110,7 @@ article img {
 blockquote {
    margin: 40px 0px 0px 0px;
    font-weight: 300;
-   font-family: georgia, serif;
+   font-family: "Courier New", Courier, monospace;
 }
 
 .carousel-caption blockquote {
@@ -127,6 +127,7 @@ border: 0px;
 display: block;
 content: "\201C";
 font-size: 80px;
+font-family: georgia, serif;
 position: absolute;
 left: 0px;
 top: -40px;
@@ -139,7 +140,7 @@ color: #707c8e;
 font-size: 12px;
 display: block;
 margin-top: 5px;
-text-align: right;
+text-align: center;
 }
  
 .well .page-header {
@@ -391,6 +392,13 @@ footer {
    }
    #myCarousel .carousel-caption p {
       font-size: 14px;
+   }
+
+   #myCarousel .carousel-caption blockquote {
+      font-size: 13px;
+   }
+   #myCarousel .carousel-caption cite {
+      font-size: 10px;
    }
 
    #slide1 {
