@@ -16,5 +16,4 @@ prose:
         field:
           element: "textarea"
           label: "Excerpt"
-          value: ""
           help: "Short summary of the article..."
