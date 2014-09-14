@@ -386,6 +386,13 @@ footer {
 
    #myCarousel .item { height: 400px;}
 
+   #myCarousel .carousel-caption h4 {
+      font-size: 24px;
+   }
+   #myCarousel .carousel-caption p {
+      font-size: 14px;
+   }
+
    #slide1 {
       background: url('../../images/slide-1-sm.png') top center no-repeat;
    }
