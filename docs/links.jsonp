@@ -1,0 +1,15 @@
+{
+    "text": "Home",
+    "href": "{{site.baseurl}}/index.html"
+}
+
+{
+    "text": "Project",
+    "href": "{{site.baseurl}}/article"
+}
+
+{
+    "text": "News",
+    "href": "{{site.baseurl}}/news"
+}
+
