@@ -13,7 +13,18 @@ prose:
         field:
           element: "hidden"
           value: "post"
+      - name: "date"
+        field:
+          element: "text"
+          label: "Date"
+          value: ""
+          placeholder: "YYYY-MM-DD"
       - name: "title"
+        field:
+          element: "textarea"
+          label: "Excerpt"
+          value: ""
+      - name: "excerpt"
         field:
           element: "text"
           label: "Title"
