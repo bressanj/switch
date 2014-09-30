@@ -11,8 +11,3 @@ prose:
        field:
          element: "hidden"
          value: "post"
-     - name: "excerpt"
-       field:
-         element: "textarea"
-         label: "Excerpt"
-         help: "Short summary of the article..."
