@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: "TU-Munich joins SWITCH"
-excerpt: null
+excerpt: "Pop-up Portland master cleanse tofu salvia. Farm-to-table locavore lo-fi Tumblr, PBR blog flannel stumptown."
 ---
 
 ![tum.png](/post_media/tum.png)
