@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: "TU-Munich joins SWITCH"
-excerpt: "McSweeney's beard tattooed cornhole, letterpress ennui banjo mixtape fap. Twee photo booth cray chia semiotics disrupt. Wes Anderson meggings pop-up four loko butcher, vinyl trust fund."
+excerpt: null
 ---
 
 ![tum.png](/post_media/tum.png)
