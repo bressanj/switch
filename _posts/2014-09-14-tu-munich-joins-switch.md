@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: "TU-Munich joins SWITCH"
-excerpt: null
+excerpt: "Salvia authentic butcher drinking vinegar meggings tote bag pour-over, 3 wolf moon pop-up gastropub typewriter Austin fixie. Cliche fashion axe cardigan gluten-free locavore cornhole."
 ---
 
 ![tum.png](/post_media/tum.png)
