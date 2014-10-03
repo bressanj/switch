@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: "TU-Munich joins SWITCH"
-excerpt: null
+excerpt: "Cliche fashion axe cardigan gluten-free locavore cornhole. Beard chillwave umami tofu, VHS Banksy Thundercats fingerstache."
 ---
 
 ![tum.png](/post_media/tum.png)
