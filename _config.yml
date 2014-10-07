@@ -1,5 +1,5 @@
 markdown: redcarpet
-baseurl: /switch
+baseurl: /
 exclude: ["README.md"]
 permalink: pretty
 prose:
