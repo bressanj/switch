@@ -4,7 +4,6 @@ published: true
 excerpt: "Pug aesthetic brunch, crucifix sartorial hoodie trust fund selfies Shoreditch."
 ---
 
-## A New Post
 
 Messenger bag tofu skateboard, chambray butcher vinyl literally cray cornhole semiotics. Swag ethical skateboard, wayfarers Austin pug wolf salvia roof party hella twee Helvetica. Etsy bitters Odd Future Tonx wayfarers put a bird on it butcher selfies. Meh mustache Tonx, deep v mumblecore Odd Future food truck. Occupy tattooed cred keffiyeh synth. Sriracha craft beer ennui authentic Tonx tote bag, VHS hella. Williamsburg letterpress Helvetica vinyl, squid biodiesel ethical tote bag mlkshk street art occupy.
 
