@@ -1,10 +1,8 @@
 ---
 layout: post
 published: true
-excerpt: "+1 Odd Future butcher leggings paleo wayfarers, 3 wolf moon bespoke you probably haven't heard of them Vice deep v flannel authentic fingerstache."
+excerpt: "Swag ethical skateboard, wayfarers Austin pug wolf salvia roof party hella twee Helvetica."
 ---
-
-## A New Post
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
