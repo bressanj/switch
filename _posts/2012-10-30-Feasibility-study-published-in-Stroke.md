@@ -1,7 +1,7 @@
 ---
 layout: post
-published: false
-excerpt: null
+published: true
+excerpt: "Occupy tattooed cred keffiyeh synth. Sriracha craft beer ennui authentic Tonx tote bag, VHS hella. Williamsburg letterpress Helvetica vinyl, squid biodiesel ethical tote bag mlkshk street art occupy."
 ---
 
 ## A New Post
