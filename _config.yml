@@ -3,6 +3,7 @@ exclude: ["README.md"]
 permalink: pretty
 prose:
   rooturl: '_posts'
+  siteurl: 'http://switch-trial.ch/'
   media: 'post_media'
   metadata:
     _posts:
