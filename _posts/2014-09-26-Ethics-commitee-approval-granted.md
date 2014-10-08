@@ -1,7 +1,7 @@
 ---
 layout: post
-published: false
-excerpt: null
+published: true
+excerpt: "Williamsburg letterpress Helvetica vinyl, squid biodiesel ethical tote bag mlkshk street art occupy."
 ---
 
 ## A New Post
