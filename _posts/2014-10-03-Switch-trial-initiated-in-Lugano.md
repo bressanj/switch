@@ -1,8 +1,8 @@
 ---
 layout: post
 published: true
-excerpt: "The initation visit for the second Swiss trial center - Lugano - was successfully realized"
+excerpt: "The initiation visit for the second Swiss trial center - Lugano - was successfully realized"
 ---
 
 
-The initation visit for the second Swiss trial center - Lugano - was successfully realized.
+The initiation visit for the second Swiss trial center - Lugano - was successfully realized.
