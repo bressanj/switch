@@ -6,4 +6,4 @@ excerpt: "The Swiss trial conducted in Bern and Geneva showed that the new treat
 
 The Swiss trial conducted in Bern and Geneva showed that the new treatment concept of decompressive craniectomy after intracerebral hemorrhage is feasible and safe. This trial showed promising effects with regards to martality and outcome. 
 
-http://www.ncbi.nlm.nih.gov/pubmed/?term=Decompressive+hemicraniectomy+in+patients+with+supratentorial+intracerebral
+http://www.ncbi.nlm.nih.gov/pubmed/23111437
