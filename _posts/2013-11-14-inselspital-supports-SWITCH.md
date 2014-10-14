@@ -6,4 +6,4 @@ excerpt: "The Commission for promotion of young researchers of the Inselspital s
 
 The Commission for promotion of young researchers of the Inselspital supports SWITCH.
 
-The proposal for SWITCH was submitted by Dr. med. Christian Fung, Oberarzt at the Inselspital.
+The proposal for SWITCH was submitted by Dr. med. Christian Fung, Oberarzt at the Inselspital Bern.
