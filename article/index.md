@@ -81,10 +81,12 @@ As shown in our recent feasibility study [(Fung et al. 2012)](http://www.ncbi.nl
 ###Financing
 The Swiss National Science Foundation has approved a grant over CHF 520.000 in September 2013. In addition funds were granted from the Swiss Heart Foundation (CHF 100.000) and Inselspital Bern (CHF 80.000). 
 
+###"What others think"
+The idea of using decompressive craniectomy for treatment for ICH is increasing throughout the neurosurgical and neurological community. Shortly after publication of our preliminary results in "Stroke" last year, three new studies were published focusing on decompressive craniectomy in ICH. In addition, our results were reported in the non-scientific media, which should help to improve awareness of this devastating condition.
+
 ---
 
 ##Discussion
-The idea of using decompressive craniectomy for treatment for ICH is increasing throughout the neurosurgical and neurological community. Shortly after publication of our preliminary results in "Stroke" last year, three new studies were published focusing on decompressive craniectomy in ICH. In addition, our results were reported in the non-scientific media, which should help to improve awareness of this devastating condition.
 
 ###Here is what others think about our new concept:
 
