@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-excerpt:   second patient included in trial
+excerpt:   Lugano included their first patient in the randomized trial
 ---
 
 Lugano included their first patient in the randomized trial
