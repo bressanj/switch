@@ -26,3 +26,15 @@
   ga('create', 'UA-55993729-1', 'auto');
   ga('send', 'pageview');
 </script>
+
+
+<!-- Include 'current' class to navigation link -->
+<script>
+$(function() {
+  $('.navbar-nav>li>a').each(function() {
+    if ($(this).attr('href')  ===  window.location.pathname) {
+      $(this).addClass('current');
+    }
+  });
+});  
+</script>

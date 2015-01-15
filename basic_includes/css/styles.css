@@ -189,6 +189,10 @@ ul li i {
    background-color: #293449;
 }
 
+.navbar-nav>li>a.current {
+   color: #fdfdfd;
+}
+
 .navbar-brand {
    padding: 10px 15px 5px 15px;
 }
