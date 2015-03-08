@@ -1,19 +1,19 @@
 	<head>
-		
+
 		<!-- Website Title & Description for Search Engine purposes -->
 		<title>SWITCH: A Randomized Trial for Intracerebral Hemorrhage</title>
 		<meta name="description" content="Swiss Trial of Initial Decompressive Craniectomy versus Best Medical Treatment of Spontaneous Supratentorial Intracerebral Hemorrhage: A Randomized Controlled Trial">
-		
+
 		<!-- Mobile viewport optimized -->
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-		
+
 		<!-- Bootstrap CSS -->
 		<link href="{{ site.baseurl }}/basic_includes/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 		<link href="{{ site.baseurl }}/basic_includes/css/bootstrap-glyphicons.css" rel="stylesheet">
-		
+
 		<!-- Custom CSS -->
 		<link href="{{ site.baseurl }}/basic_includes/css/styles.css" rel="stylesheet">
-		
+
 		<!-- Include Modernizr in the head, before any other Javascript -->
 		<script src="{{ site.baseurl }}/basic_includes/js/modernizr-2.6.2.min.js"></script>
 
@@ -22,9 +22,20 @@
 
 		<!-- Include BootstrapValidator CSS -->
 		<link rel="stylesheet" href="{{ site.baseurl }}/basic_includes/bootstrapvalidator-dist-0.5.2/dist/css/bootstrapValidator.min.css"/>
-		
+
 		<!-- Include Favicon -->
 		<link rel="icon" type="image/x-icon" href="{{ site.baseurl }}/images/switch_favicon.png" />
-		
-		
+
+		<!-- First try for the online version of jQuery-->
+		<script src="http://code.jquery.com/jquery.js"></script>
+
+		<!-- If no online access, fallback to our hardcoded version of jQuery -->
+		<script>window.jQuery || document.write('<script src="{{ site.baseurl }}/basic_includes/js/jquery-1.8.2.min.js"><\/script>')</script>
+
+		<!-- Include jVectorMap -->
+		<link rel="stylesheet" href="{{ site.baseurl }}/maps/jquery-jvectormap-2.0.2.css" type="text/css" media="screen"/>
+		<script src="{{ site.baseurl }}/maps/jquery-jvectormap-2.0.2.min.js"></script>
+		<script src="{{ site.baseurl }}/maps/jquery-jvectormap-europe-mill-en.js"></script>
+
+
 	</head>
