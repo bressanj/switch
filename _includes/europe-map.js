@@ -16,7 +16,8 @@
     markerStyle: {
       initial: {
         fill: '#F05829',
-        stroke: '#383f47'
+        stroke: '#383f47',
+        r:4
       }
     },
 
@@ -29,10 +30,12 @@
     ],
 
     focusOn: {
-  x: 0.2,
-  y: 0.6,
-  scale: 1.6
-}
+      x: 0.2,
+      y: 0.6,
+      scale: 1.6
+    },
+
+    zoomOnScroll: false,
 
     });
   });
