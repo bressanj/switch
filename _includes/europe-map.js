@@ -22,9 +22,10 @@
     backgroundColor: '#fdfdfd',
     markers: [
 
-      {latLng: [48.13,11.56], name: 'Munich'},
-      {latLng: [46.95,7.45], name: 'Bern'},
-      {latLng: [46.2,6.15], name: 'Geneva'},
+      {% for site in site.data.sites %}
+        {latLng: [{{ site.lat }},{{ site.lng }}], name: '{{ site.name }}'},
+      {% endfor %}
+
 
     ]
 
