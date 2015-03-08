@@ -8,6 +8,12 @@
    max-width: 728px;
 }
 
+#participating-sites {
+   margin-top: 50px;
+   padding: 0 5px;
+   max-width: 728px;
+}
+
 #features {
    text-align: center;
 }
@@ -142,7 +148,7 @@ display: block;
 margin-top: 5px;
 text-align: center;
 }
- 
+
 .well .page-header {
    margin-top: 0;
 }
@@ -159,7 +165,7 @@ text-align: center;
 ul.unstyled {
    list-style: none;
    padding: 0px;
-} 
+}
 
 ul li i {
    padding-bottom: 10px;
@@ -182,8 +188,8 @@ ul li i {
    color: white;
 }
 
-.navbar-nav>.active>a, 
-.navbar-nav>.active>a:hover, 
+.navbar-nav>.active>a,
+.navbar-nav>.active>a:hover,
 .navbar-nav>.active>a:focus {
    color: #707c8e;
    background-color: #293449;
@@ -201,7 +207,7 @@ ul li i {
    height: 35px;
 }
 
-   
+
 /* --------------------------------------
    Carousel
    -------------------------------------- */
@@ -244,7 +250,7 @@ ul li i {
    font-size: 16px;
 }
 
-#myCarousel .item { 
+#myCarousel .item {
    height: 400px;
 }
 
@@ -393,7 +399,7 @@ footer {
    body {
       font-size: 14px;
    }
-   
+
    blockquote p {
       font-size: 14px;
    }
@@ -415,7 +421,7 @@ footer {
    }
 
    .navbar-nav>li a {
-      color: #707c8e; 
+      color: #707c8e;
       text-align: center;
       font-size: 16px;
       font-weight: 400;
