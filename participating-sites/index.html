@@ -2,15 +2,13 @@
 layout: default
 ---
 
-<div id="europe-map" style="width: 600px; height: 400px"></div>
-<script>
-  $(function(){
-    $('#europe-map').vectorMap();
-  });
-</script>
+
 
 
 <div class="container" id="participating-sites">
+
+  {% include europe-map.js %}
+
   <h1 class="page-heading">Participating Sites</h1>
   <hr>
   <ul class="post-list">
