@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+
+
+
+<div class="container" id="participating-sites">
+
+  <h1 class="page-heading">Participating Sites</h1>
+  <hr>
+  {% include europe-map.js %}
+  <ul class="site-list">
+    {% for site in site.data.sites %}
+      <li>
+        <h2>
+          <a class="post-link" href="{{ site.url }}">{{ site.name }}</a>
+        </h2>
+         <a class="post-link" href="{{ site.url }}">{{ site.url }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</div><!-- end container -->
