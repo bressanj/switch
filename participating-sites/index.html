@@ -6,14 +6,12 @@ layout: default
   <h1 class="page-heading">Participating Sites</h1>
   <hr>
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for site in site.data.sites %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
         <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a class="post-link" href="{{ site.url }}">{{ site.name }}</a>
         </h2>
-        {{ post.excerpt}}
+        <p>{{ site.url }}</p>
       </li>
     {% endfor %}
   </ul>
