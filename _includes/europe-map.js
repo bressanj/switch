@@ -1,4 +1,4 @@
-<div id="map" style="width: 727px; height: 400px"></div>
+<div id="map" style="width: 727px; height: 500px"></div>
 <script>
   $(function(){
     $('#map').vectorMap({map: 'europe_mill_en',
@@ -19,16 +19,20 @@
         stroke: '#383f47'
       }
     },
-    backgroundColor: '#fdfdfd',
-    markers: [
 
+    backgroundColor: '#fdfdfd',
+
+    markers: [
       {% for site in site.data.sites %}
         {latLng: [{{ site.lat }},{{ site.lng }}], name: '{{ site.name }}'},
       {% endfor %}
+    ],
 
-
-    ]
-
+    focusOn: {
+  x: 0.2,
+  y: 0.6,
+  scale: 1.6
+}
 
     });
   });
