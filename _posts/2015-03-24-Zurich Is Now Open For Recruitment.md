@@ -6,4 +6,3 @@ excerpt:   The fifth Swiss trial site - Zurich - is now open for recruitment
 
 The fifth Swiss trial site - Zurich - is now open for recruitment
 
-s here
